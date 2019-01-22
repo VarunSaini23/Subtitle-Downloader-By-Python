@@ -8,8 +8,8 @@ Requests
 
 To use this Script, follow the steps:-
 1. Download the install the libraries using the following commands in Command Prompt:
-    a.) pip install beautifulsoup4
-    b.) pip install requests
+a.) pip install beautifulsoup4
+b.) pip install requests
     
 2. Place this script in the folder you want to download the subtitles.
 
