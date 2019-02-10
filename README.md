@@ -22,4 +22,7 @@ Happy Movie Watching
 
 Note - The Subtitle will be downloaded as a zip folder in the same directory where this Script is placed.
 
-![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture1.PNG)
+![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture12.png)
+![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture22.png)
+![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture32.png)
+![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture42.png)
