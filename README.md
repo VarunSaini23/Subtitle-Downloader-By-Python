@@ -21,3 +21,5 @@ b.) pip install requests
 Happy Movie Watching
 
 Note - The Subtitle will be downloaded as a zip folder in the same directory where this Script is placed.
+
+![alt text](https://github.com/VarunSai23/Subtitle-Downloader-By-Python/blob/master/Capture1.PNG)
