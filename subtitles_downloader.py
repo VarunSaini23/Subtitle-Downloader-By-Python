@@ -1,7 +1,7 @@
 #subtitles downloader
 
 import os,requests,bs4
-n=input("Enter the name of movie : ")
+n=input("Enter the name of Movie / Series: ")
 r=requests.get("https://isubtitles.in/search?kwd="+n)
 
 #os.chdir(r"C:\\Users\acer\Desktop")
