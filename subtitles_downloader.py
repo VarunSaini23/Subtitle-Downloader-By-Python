@@ -1,7 +1,7 @@
 #subtitles downloader
 
 import os,requests,bs4
-n=input("Enter the name of movie : ")
+n=input("Enter the name of Movie / Series: ")
 r=requests.get("https://isubtitles.in/search?kwd="+n)
 
 bs=bs4.BeautifulSoup(r.text,"html.parser")
